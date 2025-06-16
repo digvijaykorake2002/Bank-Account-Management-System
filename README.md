@@ -219,8 +219,8 @@ SELECT * FROM bank;
 
 ## 👥 Contributors
 
-- **[Digvijay Korake]** - Developer  
-- **[Tyagi Sir]** - Project Guide
+- **Digvijay Korake** - Developer  
+- **Tyagi Sir** - Project Guide
 
 ---
 
