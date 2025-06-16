@@ -200,7 +200,7 @@ SELECT * FROM bank;
 ## 🖼 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./Login%20Page.png)
+![Login Page](Login%20Page.png)
 
 ### 📝 Sign Up - Page 1 (Personal Details)
 ![Sign up Page 1 Personal details](./Sign%20up%20Page%201%20Personal%20details.png)
