@@ -203,16 +203,16 @@ SELECT * FROM bank;
 ![Login Page](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/540258c5bc1e8f9980a69d9f47a35201ac046228/src/icons/Login%20Page.png)
 
 #### 📝 Sign Up - Page 1 (Personal Details)
-![Sign Up Page 1](signup-page1.png)
+![Sign Up Page 1](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/8b7ecbc0a49ee06658cd21e42acfa7a52b017816/src/icons/Sign%20up%20Page%201%20Personal%20details.png)
 
 #### 📋 Sign Up - Page 2 (Additional Details)
-![Sign Up Page 2](signup-page2.png)
+![Sign Up Page 2](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/8b7ecbc0a49ee06658cd21e42acfa7a52b017816/src/icons/Signup%20Page%202%20Additional%20Details.png)
 
 #### 💳 Sign Up - Page 3 (Account Details)
-![Sign Up Page 3](signup-page3.png)
+![Sign Up Page 3](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/8b7ecbc0a49ee06658cd21e42acfa7a52b017816/src/icons/Signup%20Page%203%20Accounts%20details.png)
 
 #### 🧾 Transaction Page
-![Transaction Page](transaction-page.png)
+![Transaction Page](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/8b7ecbc0a49ee06658cd21e42acfa7a52b017816/src/icons/ATM%20Transaction%20Page.png)
 
 ---
 
