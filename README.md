@@ -200,7 +200,7 @@ SELECT * FROM bank;
 ## 🖼 Screenshots
 
 #### 🔐 Login Page
-![Login Page](login-page.png)
+![Login Page](https://github.com/digvijaykorake2002/Bank-Account-Management-System/blob/540258c5bc1e8f9980a69d9f47a35201ac046228/src/icons/Login%20Page.png)
 
 #### 📝 Sign Up - Page 1 (Personal Details)
 ![Sign Up Page 1](signup-page1.png)
