@@ -199,21 +199,20 @@ SELECT * FROM bank;
 
 ## 🖼 Screenshots
 
-### 🔐 Login Page
-![Login Page](Login%20Page.png)
+#### 🔐 Login Page
+![Login Page](login-page.png)
 
-### 📝 Sign Up - Page 1 (Personal Details)
-![Sign up Page 1 Personal details](./Sign%20up%20Page%201%20Personal%20details.png)
+#### 📝 Sign Up - Page 1 (Personal Details)
+![Sign Up Page 1](signup-page1.png)
 
-### 📋 Sign Up - Page 2 (Additional Details)
-![Signup Page 2 Additional Details](./Signup%20Page%202%20Additional%20Details.png)
+#### 📋 Sign Up - Page 2 (Additional Details)
+![Sign Up Page 2](signup-page2.png)
 
-### 💳 Sign Up - Page 3 (Account Details)
-![Signup Page 3 Accounts details](./Signup%20Page%203%20Accounts%20details.png)
+#### 💳 Sign Up - Page 3 (Account Details)
+![Sign Up Page 3](signup-page3.png)
 
-### 🧾 Transaction Page
-![ATM Transaction Page](./ATM%20Transaction%20Page.png)  
-> _(e.g., login screen, dashboard, account page, transaction history)_
+#### 🧾 Transaction Page
+![Transaction Page](transaction-page.png)
 
 ---
 
